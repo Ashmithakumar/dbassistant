@@ -1,0 +1,12 @@
+{
+    "database": "Book4.xlsx",
+    "db_type": "excel",
+    "schema": {
+        "Sales": [
+            "product_id",
+            "City",
+            "Revenue",
+            "Quantity"
+        ]
+    }
+}
