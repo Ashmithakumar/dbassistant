@@ -285,4 +285,5 @@ def main():
         st.warning("Please connect to a database first to use the assistant.")
 
 if __name__ == "__main__":
+    # Some new change
     main()
